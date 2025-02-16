@@ -1,0 +1,560 @@
+:root {
+  --lv1-primary-color: #fec20f;
+  --lv1-dark-blue-color: #5f7a85;
+  --lv1-light-blue-color: #708793;
+  --lv1-dark-panton-color: #664c25;
+  --lv1-light-panton-color: #b2945c;
+  --lv1-background-color: #fff7ed;
+}
+
+.node-60 h1,
+.node-60 h2,
+.node-60 h3,
+.node-60 h4,
+.node-60 h5,
+.node-60 h6 {
+  font-family: "sfu_futurabold";
+}
+
+body .node-60 {
+  font-family: "sfu_futura_book";
+}
+
+.node-60 .header__logo a {
+  display: block;
+  width: 6rem;
+}
+
+.fp-viewing-Projectnarrative .node-60 .header__menu .menu-list > li > a,
+.fp-viewing-MasteriCollection .node-60 .header__menu .menu-list > li > a,
+.fp-viewing-Locations .node-60 .header__menu .menu-list > li > a,
+.fp-viewing-Floor\&Unitplan .node-60 .header__menu .menu-list > li > a {
+  color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .header__wrap {
+  background-color: transparent;
+}
+
+.node-60 .exuberanceInfo-left .swiper-slide {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.node-60 .exuberanceInfo-left .item-content .title-44 {
+  text-shadow: none;
+}
+
+.node-60 .exuberanceInfo-left .slide-bg-left.fp-bg::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  background: linear-gradient(to top, #000000ba 0%, #aa894300 100%);
+  z-index: 3;
+}
+
+.node-60 .exuberanceInfo-left .swiper-slide {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.node-60 .exuberanceInfo .swiper-pagination {
+  display: none !important;
+}
+
+.node-60 .locationInfo {
+  background-color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .locationInfo {
+  color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .locationInfo .locationInfo__body .title-40 {
+  color: var(--lv1-primary-color);
+}
+
+.node-60 .locationInfo__inner .item-list__title {
+  color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .locationInfo__inner .item-list__list li p {
+  color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .salePolicy .btn-link {
+  color: var(--lv1-dark-panton-color);
+}
+
+.node-60 .locationInfo__body .btn-link {
+  color: var(--lv1-background-color);
+}
+
+.node-60 .salePolicy .title-56 {
+  color: var(--lv1-background-color);
+}
+
+.node-60 .partnerSlide .slide-buttonCustomB .slide-buttonCustomB-prev,
+.node-60 .partnerSlide .slide-buttonCustomB .slide-buttonCustomB-next,
+.node-60 .partnerSlide .slide-buttonCustomB .slide-buttonCustomMb-prev,
+.node-60 .partnerSlide .slide-buttonCustomB .slide-buttonCustomMb-next,
+.node-60 .partnerSlide .slide-buttonCustomMb .slide-buttonCustomB-prev,
+.node-60 .partnerSlide .slide-buttonCustomMb .slide-buttonCustomB-next,
+.node-60 .partnerSlide .slide-buttonCustomMb .slide-buttonCustomMb-prev,
+.node-60 .partnerSlide .slide-buttonCustomMb .slide-buttonCustomMb-next {
+  background-color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .salePolicy {
+  background-color: var(--lv1-background-color);
+}
+
+.node-60 .salePolicy .title-56,
+.node-60 .salePolicy__inner .item-text,
+.node-60 .salePolicy__inner .item-textCut,
+.node-60 .salePolicy__inner .item-textCut .btn-link {
+  color: var(--lv1-dark-panton-color);
+}
+
+.node-60
+  .partnerSlide
+  .partnerSlide-thumbnal
+  .swiper-buttonCustom
+  .slide-buttonCustom-prev,
+.node-60
+  .partnerSlide
+  .partnerSlide-thumbnal
+  .swiper-buttonCustom
+  .slide-buttonCustom-next,
+.node-60 .menu-sidebar__show,
+.node-60 .menu-sidebar__hide {
+  color: var(--lv1-dark-blue-color);
+  background-color: var(--lv1-background-color);
+}
+
+.node-60
+  .partnerSlide
+  .partnerSlide-thumbnal
+  .swiper-buttonCustom
+  .slide-buttonCustom-prev:hover,
+.node-60
+  .partnerSlide
+  .partnerSlide-thumbnal
+  .swiper-buttonCustom
+  .slide-buttonCustom-next:hover,
+.node-60 .menu-sidebar__show:hover,
+.node-60 .menu-sidebar__hide:hover {
+  background-color: var(--lv1-dark-blue-color);
+  color: var(--lv1-background-color);
+}
+
+.node-60 .partnerSlide .swiper-slide::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to top, #00000085 0%, #aa894300 30%);
+  z-index: 0;
+}
+
+.node-60 .videoGallery {
+  background-color: var(--lv1-dark-blue-color);
+}
+
+.node-60 .videoGallery__videoThumb .item.current .item-title {
+  color: var(--lv1-primary-color);
+}
+
+.node-60 .contact-form .button-submit {
+  background-color: var(--lv1-primary-color);
+}
+
+.node-60 .aboutInfo__content {
+  background-color: var(--lv1-light-panton-color);
+}
+
+.node-60 .partnerSlide .partnerSlide-thumbnal .swiper-slide {
+  border: 2px solid var(--lv1-light-blue-color);
+}
+
+.node-60 .townshipIntro-swiper .item-thumbnal li span.current {
+  border: 2px solid var(--lv1-light-blue-color);
+}
+
+.node-60 .title-56,
+.node-60 .title-56 .subtitle {
+  text-shadow: none;
+  font-size: 1.9rem;
+}
+
+.node-60 .townshipIntro .title-56 .subtitle {
+  font-family: "sfu_futura_book";
+}
+
+.node-60 .townshipIntro .btn-link {
+  display: none;
+}
+
+.node-60 .townshipIntro-swiper .item-inner {
+  padding-top: 4.5rem;
+  justify-content: flex-end;
+}
+
+.node-60 .townshipIntro__bgSlide:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, #00000085 0%, #aa894300 60%);
+  z-index: 1;
+}
+
+.node-60 .townshipIntro-swiper .item-grow {
+  -webkit-box-flex: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+}
+
+.node-60 .locationInfo__marker {
+  position: absolute;
+  left: 65%;
+  top: 15%;
+}
+
+.node-60 .map-inner img {
+  max-width: 120%;
+}
+
+.node-60 .locationInfo .title-40 {
+  font-size: 1.5rem;
+}
+
+.node-60 .waterInfo__slide .swiper .swiper-slide {
+  justify-content: flex-end;
+}
+
+.node-60 .waterInfo__slide .item-content {
+  margin-bottom: 35%;
+}
+
+.node-60 .waterInfo__slide .item-title.title-56 {
+  display: none;
+}
+
+.node-60 .waterInfo__btn h3.item__name {
+  font-family: "sfu_futura_book";
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.node-60 .waterInfo__btn .item.current h3.item__name {
+  color: #e1ca99;
+}
+
+.node-60 .waterInfo__btn {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  bottom: 3%;
+  right: 0;
+}
+
+.node-60 .waterInfo__btn .item.current .item__line:after {
+  width: 100%;
+  -webkit-transition: width 5s linear;
+  transition: width 5s linear;
+}
+
+.node-60 .menu-sidebar__btn,
+.node-60 .menu-sidebar__show,
+.node-60 .partnerSlide .item-text__btn,
+.node-60 .salePolicy .item-btn,
+.node-60 .header__language {
+  display: none;
+}
+
+.node-60 .salePolicy .title-56 {
+  color: #fff;
+}
+
+.node-60 .header__menu .menu-list > li:last-child a {
+  padding: 10px 30px;
+  background-color: var(--lv1-light-panton-color);
+  border-radius: 20px;
+}
+
+.node-60 .header__menu .menu-list {
+  align-items: center;
+}
+
+.node-60 .locationInfo__info .item-map .item-map__btn {
+  right: 10%;
+}
+
+.node-60 .townshipIntro__bgSlide:after {
+  content: none;
+}
+
+.node-60 .swiper-slide:last-child .title-56,
+.node-60 .swiper-slide:last-child .title-56 .subtitle {
+  font-size: 1.5rem;
+}
+
+.node-60 .locationInfo__body {
+  margin-top: 0;
+}
+
+.node-60 .waterInfo__slide .swiper-slide::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, #00000085 1%, #aa894300 50%);
+  z-index: 0;
+}
+
+.node-60 .waterInfo__slide .item-content {
+  z-index: 1;
+}
+
+.node-60 .fullpage-panel {
+  display: flex;
+}
+
+.node-60 .item-map {
+  height: 60vh;
+}
+
+.node-60 .locationInfo__body {
+  margin-top: -30vh;
+}
+
+.node-60 .salePolicy__bg {
+  width: 100%;
+}
+
+.node-60 .townshipIntro__bgSlide .swiper-slide::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, #00000085 0%, #aa894300 60%);
+  z-index: 0;
+}
+
+.node-60 .townshipIntro__bgSlide .swiper-slide .container {
+  position: absolute;
+  z-index: 1;
+}
+
+.node-60 .townshipIntro__bgSlide .swiper-slide:last-child .title-56 {
+  font-size: 1.5rem;
+}
+
+/* Responsive */
+@media (max-width: 767.98px) {
+  .node-60 .locationInfo__info .item-map__scroll .map-inner {
+    width: 260%;
+  }
+}
+
+@media (min-width: 768px) {
+  .node-60 .menu-sidebar__inner {
+    border: none;
+  }
+
+  .node-60 .menu-sidebar__social a {
+    color: var(--lv1-dark-blue-color);
+    background-color: var(--lv1-background-color);
+  }
+
+  .node-60 .menu-sidebar__social a:hover {
+    background-color: var(--lv1-dark-blue-color);
+    color: var(--lv1-background-color);
+  }
+
+  .node-60 .waterInfo__slide .item-content {
+    margin-bottom: 10%;
+  }
+
+  .node-60 .waterInfo__btn {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    bottom: 5%;
+    right: 0;
+  }
+}
+
+@media (min-width: 1260px) {
+  .node-60 .header__logo a {
+    width: 9rem;
+  }
+
+  .node-60 .townshipIntro .item-thumbnal {
+    display: none;
+  }
+
+  .node-60 .title-56,
+  .node-60 .title-56 .subtitle {
+    font-size: 2.5rem;
+  }
+
+  .node-60 .townshipIntro-swiper .item-inner {
+    padding-top: 8.75rem;
+    padding-bottom: 3.4375rem;
+  }
+
+  .node-60 .exuberanceInfo {
+    background-color: var(--lv1-background-color);
+  }
+
+  .node-60 .exuberanceInfo::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #dcc4a4;
+    width: 80%;
+  }
+
+  .node-60 .exuberanceInfo-right .item-box__title,
+  .node-60 .exuberanceInfo-right .item-box__text {
+    color: var(--lv1-dark-panton-color);
+  }
+
+  .node-60 .locationInfo {
+    color: #fff;
+  }
+
+  .node-60 .locationInfo::after {
+    background-color: var(--lv1-dark-blue-color);
+  }
+
+  .node-60 .locationInfo {
+    background-color: var(--lv1-background-color);
+  }
+
+  .node-60 .formContact__content .item-left {
+    background-color: var(--lv1-dark-blue-color);
+  }
+
+  .node-60 .exuberanceInfo-right .item-box__body {
+    margin-top: 0.5rem;
+  }
+
+  .node-60 .townshipIntro-swiper .item-inner {
+    justify-content: flex-start;
+  }
+
+  .node-60 .salePolicy .title-56 {
+    color: var(--lv1-dark-panton-color);
+  }
+
+  .node-60 .map-inner img {
+    max-width: 100%;
+  }
+
+  .node-60 .locationInfo .title-40 {
+    font-size: 2.1875rem;
+  }
+
+  .node-60 .waterInfo__slide .item-content {
+    margin-bottom: 5%;
+  }
+
+  .node-60 .waterInfo .item-content .col-xl-7 {
+    width: 66.6666666667%;
+  }
+
+  .node-60 .waterInfo__slide .item-content {
+    margin-bottom: 5%;
+  }
+
+  .node-60 .salePolicy .title-56 {
+    color: #664c25;
+  }
+}
+
+@media (min-width: 1700px) {
+  .node-60 .header__logo a {
+    width: 9rem;
+  }
+
+  .node-60 .title-56,
+  .node-60 .title-56 .subtitle {
+    font-size: 3.5rem;
+  }
+
+  .node-60 .locationInfo .title-40 {
+    font-size: 2.4rem;
+  }
+}
+
+/* New CSS */
+@media (min-width: 768px) {
+  .node-60 .locationInfo {
+    padding-right: 0;
+  }
+
+  .node-60 .salePolicy__bg {
+    width: 60%;
+  }
+
+  .node-60 .townshipIntro__bgSlide .swiper-slide .container {
+    position: relative;
+  }
+}
+
+@media (min-width: 1260px) {
+  .node-60 .locationInfo__info .item-map .item-map__btn {
+    right: 15%;
+  }
+
+  .node-60 .locationInfo__info .item-list {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding-bottom: 5.25rem;
+  }
+
+  .node-60 .townshipIntro__bgSlide .swiper-slide:last-child .title-56 {
+    font-size: 2.3rem;
+    padding-left: 150px;
+  }
+}
+
+@media (min-width: 1700px) {
+  .node-60 .locationInfo {
+    padding-right: 0;
+  }
+
+  .node-60 .salePolicy__bg {
+    padding-right: 0;
+  }
+
+  .node-60 .townshipIntro__bgSlide .swiper-slide:last-child .row {
+    justify-content: flex-end;
+  }
+
+  .node-60 .townshipIntro__bgSlide .swiper-slide:last-child .subtitle {
+    font-size: 2.3rem;
+  }
+}
+
+/* End New CSS */

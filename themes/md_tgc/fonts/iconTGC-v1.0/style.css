@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "iconTGC";
+  src: url("fonts/iconTGC.eot?yzcvr8");
+  src: url("fonts/iconTGC.eot?yzcvr8#iefix") format("embedded-opentype"),
+    url("fonts/iconTGC.ttf?yzcvr8") format("truetype"),
+    url("fonts/iconTGC.woff?yzcvr8") format("woff"),
+    url("fonts/iconTGC.svg?yzcvr8#iconTGC") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "iconTGC" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+  content: "\e919";
+}
+.icon-instagram:before {
+  content: "\e91a";
+}
+.icon-share:before {
+  content: "\e918";
+}
+.icon-youtube:before {
+  content: "\e900";
+}
+.icon-check:before {
+  content: "\e901";
+}
+.icon-close:before {
+  content: "\e902";
+}
+.icon-facebook:before {
+  content: "\e903";
+}
+.icon-logo:before {
+  content: "\e904";
+}
+.icon-long-arrow-down:before {
+  content: "\e905";
+}
+.icon-long-arrow-left:before {
+  content: "\e906";
+}
+.icon-long-arrow-right:before {
+  content: "\e907";
+}
+.icon-long-arrow-up:before {
+  content: "\e908";
+}
+.icon-mail:before {
+  content: "\e909";
+}
+.icon-messenger:before {
+  content: "\e90a";
+}
+.icon-play:before {
+  content: "\e90c";
+}
+.icon-plus:before {
+  content: "\e90d";
+}
+.icon-minus:before {
+  content: "\e90b";
+}
+.icon-whatsapp:before {
+  content: "\e90e";
+}
+.icon-angle-down:before {
+  content: "\e90f";
+}
+.icon-angle-left:before {
+  content: "\e910";
+}
+.icon-angle-right:before {
+  content: "\e911";
+}
+.icon-angle-up:before {
+  content: "\e912";
+}
+.icon-arrow-down:before {
+  content: "\e913";
+}
+.icon-arrow-left:before {
+  content: "\e914";
+}
+.icon-arrow-right:before {
+  content: "\e915";
+}
+.icon-arrow-up:before {
+  content: "\e916";
+}
+.icon-360:before {
+  content: "\e917";
+}
